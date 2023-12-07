@@ -1,8 +1,7 @@
-# Django Social Network
+# Django Real-Time Chat and Notification System 
 
-A Django 4.1 -based open source social network application.
 
-1. cd into project repository.
+1. cd into the project repository.
 ```bash
  cd ConnectionHub
  ``` 
